@@ -1,4 +1,6 @@
 # QuickBooks/Accountancy React Calculator App
+![alt text](https://github.com/ShenikaFernando/React-Income_calculator/blob/master/public/assets/cal.png)
+
 
 ## Scripts to run
 1. npm install
